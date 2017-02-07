@@ -41,5 +41,5 @@
     </div>
   </div>
 </nav>
-<?php include 'C:\xampp\htdocs\PPE-master\vue\inscription.php'; ?>
+
 </html>
